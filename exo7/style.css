@@ -1,0 +1,24 @@
+body{
+    background-color:white;
+}
+.idi{
+    width: 50%;
+    height: 50vh;
+    border: solid px;
+    margin-left: 50vh;
+   margin-top: 100px;
+}
+.lab{
+    margin-top: 25px;
+    padding-bottom: 30%;
+    height: 200px;
+    width: 50%;
+    margin-left: 40vh;
+}
+input{
+    padding-bottom: 10px;
+    border-radius: 2vh;
+    width: 55%;
+    height: 20%;
+    text-align: center;
+}

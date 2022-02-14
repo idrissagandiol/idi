@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+#container{
+    width: 50%;
+    height: 408px;
+    border: none;
+    margin-top: 10%;
+    margin-left: 20%;
+    padding-top: 10%;
+    padding-left: 25%;
+    
+}
+
+input{
+    padding-bottom: 10px;
+    margin: 5px 10px 5px 10px;
+    border-radius: 2vh;
+    width: 20%;
+    height: 40%;
+}

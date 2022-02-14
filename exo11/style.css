@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+}
+.container{
+    width: 50%;
+    height: 408px;
+    margin-top: 20% solid black;
+    margin-left: 10%;
+    padding-top: 10%;
+    padding-left: 30%;
+
+    
+}
+
+input{
+   width: 15%;
+   height: 30px;
+}
+.h1{
+    text-align: center;
+}
